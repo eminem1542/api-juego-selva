@@ -1,0 +1,2 @@
+class Tiket < ApplicationRecord
+end
